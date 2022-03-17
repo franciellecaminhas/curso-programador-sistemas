@@ -37,9 +37,9 @@ public class Banco_POO {
             case 3 -> System.out.println("\nSaldo:" + c1.ConsultaSaldo());
             default -> {
                 }
-                //System.out.println("OpÃ§Ã£o nÃ£o existente! Tente novamente ..." );     
+                System.out.println("Opção não existente! Tente novamente ..." );     
         }
-            //System.out.println("OpÃ§Ã£o nÃ£o existente! Tente novamente ..." );
+            System.out.println("Opção não existente! Tente novamente ..." );
                 }
   }  
 } 
